@@ -6,6 +6,11 @@
 Poke App is designed to help you explore information about various Pokémon using the popular <a href="https://pokeapi.co/" target="_blank">PokeAPI </a>  The app is built
 using Kotlin and incorporates several modern Android development tools and libraries. This document will provide an 
 overview of the app's features, architecture, libraries used, and how to get started with the project.
+<br><br>
+
+Medium blog that I detailed this project 
+<br>
+<a href="https://medium.com/@alitalhacoban/pokeapp-using-hilt-mvvm-flow-coroutines-retrofit-in-android-19b4ed388a4e" target="_blank"> PokeApp using Hilt-MVVM-Flow-Coroutines-Retrofit in Android</a>
 
 <br><br>
 
