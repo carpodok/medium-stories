@@ -45,7 +45,7 @@ To set up MovieMach on your local machine, follow these steps:
 
 1️⃣  Clone this repository to your preferred directory using the following command:
 ```
-git clone https://github.com/carpodok/MovieMatch
+git clone https://github.com/carpodok/MediumArticles/tree/main/PokeApp
 ```
 
 2️⃣ Open the cloned project in Android Studio.
