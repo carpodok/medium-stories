@@ -7,7 +7,7 @@ import retrofit2.http.Query
 
 interface PokeService {
 
-    @GET("${Constants.BASE_URL}${Constants.END_POINT_POKEMONS}")
+    @GET(Constants.END_POINT_POKEMONS)
     suspend fun getPokemons(): PokeListResponse
 
     @GET("pokemon/")
