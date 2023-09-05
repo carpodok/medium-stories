@@ -2,7 +2,6 @@
 
 <h1> <img src="https://media.giphy.com/media/XGbRD1gREhvBysGial/giphy.gif"  height="30" > PokeApp </h2>
 
-
 Poke App is designed to help you explore information about various Pokémon using the popular <a href="https://pokeapi.co/" target="_blank">PokeAPI </a>  The app is built
 using Kotlin and incorporates several modern Android development tools and libraries. This document will provide an 
 overview of the app's features, architecture, libraries used, and how to get started with the project.
@@ -15,7 +14,7 @@ Medium blog that I detailed this project
 <br><br>
 
 <p align="center"> 
-	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261874580-786d3139-ad0e-4e7a-9c14-d80a3b72588d.gif" alt="pokeapp" width=100px/> 
+	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261947216-86db2732-23d6-4a75-ab08-007fd0264e64.gif" alt="pokeapp" width=100px/> 
 </p>
 
 <br>
