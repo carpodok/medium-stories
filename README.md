@@ -1,5 +1,27 @@
 # MediumArticles
 
+
+<h2> <img src="https://media.giphy.com/media/1vLHnnIiwUN7a/giphy.gif"  height="30" > Music Player-Jetpack Compose </h2>
+
+:small_red_triangle: This project combines modern Android development practices by using using <a href="https://developer.android.com/guide/topics/media/exoplayer" target="_blank"> Media3 ExoPlayer </a>
+ with <a href="https://developer.android.com/jetpack/compose" target="_blank"> Jetpack Compose </a>  to create an interactive and visually appealing music player application .
+The use of animations and Compose features enhances the user experience during song transitions and playback control. 
+
+
+
+<h3> <img src="https://media.giphy.com/media/QvpqIQAAl66EfoTJj8/giphy.gif"  height="30" > Getting Start </h3>
+
+To set up MusicPlayer-Jetpack Compose on your local machine, follow these steps:
+
+1️⃣  Clone this repository to your preferred directory using the following command:
+```
+git clone https://github.com/carpodok/MediumArticles/tree/main/MusicPlayer
+```
+
+2️⃣ Open the cloned project in Android Studio.
+
+3️⃣ Build and run the app on an emulator or a physical device.
+
 <h1> <img src="https://media.giphy.com/media/XGbRD1gREhvBysGial/giphy.gif"  height="30" > PokeApp </h2>
 
 Poke App is designed to help you explore information about various Pokémon using the popular <a href="https://pokeapi.co/" target="_blank">PokeAPI </a>  The app is built
@@ -45,7 +67,7 @@ of the Pokémon world. With its user-friendly interface, PokeAPI is the ultimate
 
 <h2> <img src="https://media.giphy.com/media/QvpqIQAAl66EfoTJj8/giphy.gif"  height="30" > Getting Start </h2>
 
-To set up MovieMach on your local machine, follow these steps:
+To set up PokeApp on your local machine, follow these steps:
 
 1️⃣  Clone this repository to your preferred directory using the following command:
 ```
