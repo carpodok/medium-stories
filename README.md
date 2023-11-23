@@ -7,6 +7,10 @@
  with <a href="https://developer.android.com/jetpack/compose" target="_blank"> Jetpack Compose </a>  to create an interactive and visually appealing music player application .
 The use of animations and Compose features enhances the user experience during song transitions and playback control. 
 
+<p align="center">
+  <img src="https://github.com/carpodok/MediumArticles/assets/64840495/0d858908-7af1-48ac-a2c4-a1c9a2bcf42a" alt="musicplayer">
+</p>
+
 
 
 <h3> <img src="https://media.giphy.com/media/QvpqIQAAl66EfoTJj8/giphy.gif"  height="30" > Getting Start </h3>
