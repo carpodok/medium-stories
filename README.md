@@ -1,4 +1,4 @@
-# MediumArticles
+# Medium Blog Projects
 
 
 <h2> <img src="https://media.giphy.com/media/1vLHnnIiwUN7a/giphy.gif"  height="30" > Music Player-Jetpack Compose </h2>
